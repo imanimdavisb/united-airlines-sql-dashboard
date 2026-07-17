@@ -1,4 +1,5 @@
 # United Airlines Operations Dashboard
+![United Airlines Operations Dashboard](united_airlines_operations_dashboard-screenshot.png)
 
 ## Overview
 
